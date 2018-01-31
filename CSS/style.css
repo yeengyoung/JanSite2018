@@ -1,0 +1,15 @@
+h1{
+    background-color: red;
+    color: yellow;
+    width: 200px;
+}
+p { 
+    background:rgb(36, 238, 36);
+}
+.nice {
+    background: #fff;
+    font-weight: bold;
+}
+#nicer{ 
+    background-color: grey;
+}
